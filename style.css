@@ -40,6 +40,10 @@ body {
     box-shadow: 2px 2px 1px black;
     height: 80px;
     align-items: center;
+    max-width: 335px;
+    text-overflow:ellipsis;
+
+
 }
 
 .button-container {
